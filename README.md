@@ -1,11 +1,12 @@
-# flutter_application_1
+# DirectMessage: No Contact Save
 
-A new Flutter project.
+Directly Chat on WhatsApp without Saving any Number
+Simple and Easy to Use
+Secure And Safe
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
+Direct Message for WhatsApp is a convenient and efficient messaging app that allows you to send WhatsApp messages to contacts without the need to save their phone numbers in your device's address book. With this user-friendly and privacy-focused application, you can seamlessly initiate WhatsApp chats with anyone, eliminating the clutter of unnecessary contacts.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
