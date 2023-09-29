@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:4:5-38:19
-MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-15:19
-MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-15:19
-MERGED from [:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
-MERGED from [:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:4:5-38:19
+MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/cyberdad/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/cyberdad/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/cyberdad/.gradle/caches/transforms-3/4f0b6be8bb31b9535164697840ae56a8/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -40,16 +40,16 @@ MERGED from [androidx.room:room-runtime:2.2.5] /Users/cyberdad/.gradle/caches/tr
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.10.1] /Users/cyberdad/.gradle/caches/transforms-3/c4988ff80110f75080a936fc6f044848/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
 	android:name
-		INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:1:1-39:12
-MERGED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:1:1-39:12
-MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
-MERGED from [:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-16:12
-MERGED from [:webview_flutter_android] /Users/cyberdad/Documents/flutter_application_1/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+ADDED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:webview_flutter_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/cyberdad/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/cyberdad/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.multidex:multidex:2.0.1] /Users/cyberdad/.gradle/caches/transforms-3/a8fecca33f39f56dab3426149759de78/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
@@ -96,45 +96,45 @@ MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/cyberdad/.gradle/cac
 MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/cyberdad/.gradle/caches/transforms-3/5a32a65e711955931d60ee5d3f1d067f/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/cyberdad/.gradle/caches/transforms-3/03b9b3b952540ee8cedf6c096276d934/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/cyberdad/.gradle/caches/transforms-3/937d6edc8055f6701a18eeac1a67afe6/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:1:1-39:12
-		INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:1:1-39:12
-		INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:1:1-39:12
-		INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:2:5-67
-MERGED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:2:5-67
-MERGED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:2:5-67
-MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+ADDED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:2:5-67
+MERGED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:2:5-67
+MERGED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:2:5-67
+MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] /Users/cyberdad/.gradle/caches/transforms-3/a4bb9b36eda9dc68812dcd9cb8a0692c/transformed/jetified-play-services-ads-lite-22.0.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] /Users/cyberdad/.gradle/caches/transforms-3/a4bb9b36eda9dc68812dcd9cb8a0692c/transformed/jetified-play-services-ads-lite-22.0.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/cyberdad/.gradle/caches/transforms-3/67bd1e2ed67b95ed59b0e94933caa8aa/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/cyberdad/.gradle/caches/transforms-3/67bd1e2ed67b95ed59b0e94933caa8aa/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:2:22-64
+		ADDED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:2:22-64
 uses-sdk
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml
-MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:webview_flutter_android] /Users/cyberdad/Documents/flutter_application_1/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:webview_flutter_android] /Users/cyberdad/Documents/flutter_application_1/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml
+MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/cyberdad/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/cyberdad/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/cyberdad/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
@@ -227,30 +227,30 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/cyberdad/.grad
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/cyberdad/.gradle/caches/transforms-3/03b9b3b952540ee8cedf6c096276d934/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/cyberdad/.gradle/caches/transforms-3/937d6edc8055f6701a18eeac1a67afe6/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/cyberdad/.gradle/caches/transforms-3/937d6edc8055f6701a18eeac1a67afe6/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/debug/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.google.android.gms:play-services-ads:22.0.0] /Users/cyberdad/.gradle/caches/transforms-3/a501b50abd9119585147be1cabffef6e/transformed/jetified-play-services-ads-22.0.0/AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
-		INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/cyberdad/Documents/flutter_application_1/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/debug/AndroidManifest.xml
 meta-data#io.flutter.embedded_views_preview
-ADDED from [:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-14:36
+ADDED from [:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-14:36
 	android:value
-		ADDED from [:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
+		ADDED from [:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
 	android:name
-		ADDED from [:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-61
+		ADDED from [:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-61
 activity#io.flutter.plugins.urllauncher.WebViewActivity
-ADDED from [:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+ADDED from [:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
 	android:exported
-		ADDED from [:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+		ADDED from [:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
 	android:theme
-		ADDED from [:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+		ADDED from [:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
 	android:name
-		ADDED from [:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+		ADDED from [:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] /Users/cyberdad/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required

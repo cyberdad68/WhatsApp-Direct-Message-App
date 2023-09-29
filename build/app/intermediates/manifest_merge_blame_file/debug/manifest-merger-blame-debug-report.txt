@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:2:5-67
-15-->/Users/cyberdad/Documents/flutter_application_1/android/app/src/main/AndroidManifest.xml:2:22-64
+15-->/Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:2:5-67
+15-->/Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/AndroidManifest.xml:2:22-64
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 16-->[com.google.android.gms:play-services-ads-lite:22.0.0] /Users/cyberdad/.gradle/caches/transforms-3/a4bb9b36eda9dc68812dcd9cb8a0692c/transformed/jetified-play-services-ads-lite-22.0.0/AndroidManifest.xml:25:5-79
 16-->[com.google.android.gms:play-services-ads-lite:22.0.0] /Users/cyberdad/.gradle/caches/transforms-3/a4bb9b36eda9dc68812dcd9cb8a0692c/transformed/jetified-play-services-ads-lite-22.0.0/AndroidManifest.xml:25:22-76
@@ -111,20 +111,20 @@
 84            android:name="com.google.android.gms.ads.APPLICATION_ID"
 85            android:value="ca-app-pub-5973362440731172~3856311576" />
 86        <meta-data
-86-->[:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-14:36
+86-->[:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-14:36
 87            android:name="io.flutter.embedded_views_preview"
-87-->[:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-61
+87-->[:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-61
 88            android:value="true" />
-88-->[:google_mobile_ads] /Users/cyberdad/Documents/flutter_application_1/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
+88-->[:google_mobile_ads] /Users/cyberdad/Documents/WhatsApp Direct Message/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
 89
 90        <activity
-90-->[:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+90-->[:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
 91            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-91-->[:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+91-->[:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
 92            android:exported="false"
-92-->[:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+92-->[:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
 93            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-93-->[:url_launcher_android] /Users/cyberdad/Documents/flutter_application_1/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+93-->[:url_launcher_android] /Users/cyberdad/Documents/WhatsApp Direct Message/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
 94
 95        <uses-library
 95-->[androidx.window:window:1.0.0-beta04] /Users/cyberdad/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40

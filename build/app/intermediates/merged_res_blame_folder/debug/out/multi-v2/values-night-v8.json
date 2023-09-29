@@ -4,7 +4,7 @@
             "outputFile": "com.example.flutter_application_1.app-mergeDebugResources-21:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/cyberdad/Documents/flutter_application_1/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/cyberdad/Documents/WhatsApp Direct Message/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
