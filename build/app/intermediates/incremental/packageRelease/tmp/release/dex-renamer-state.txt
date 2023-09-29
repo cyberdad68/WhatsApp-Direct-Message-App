@@ -1,0 +1,4 @@
+#Sun Sep 17 04:15:32 IST 2023
+base.0=/Users/cyberdad/Documents/flutter_application_1/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
